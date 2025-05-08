@@ -1,0 +1,472 @@
+sudo ./cw2 -d -s 121
+Raspberry Pi LCD driver, for a 16x2 display (4-bit wiring) 
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,40)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,12)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,12)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,12)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,6)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,20)
+Printing welcome message on the LCD display ...
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+The sequence is: 
+1 2 1 
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,128)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button pressed 3 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 2 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button pressed 3 times
+1 exact
+0 approximate
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Next Turn
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 1 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 2 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button pressed 3 times
+2 exact
+0 approximate
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Next Turn
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 1 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 2 times
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 1
+Button pressed
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button state: 0
+Button pressed 1 times
+3 exact
+0 approximate
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,192)
+Sequence found
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,128)
+lcdClear: lcdPutCommand(7411224,1) and lcdPutCommand(7411224,2)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,1)
+lcdPutCommand: digitalWrite(25,0) and sendDataCmd(7411224,2)
